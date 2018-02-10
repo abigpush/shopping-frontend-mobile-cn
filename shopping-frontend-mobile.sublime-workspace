@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/TopSearch.vue",
+			"settings":
+			{
+				"buffer_size": 6389,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 77 files for \"pages/index\" (regex)\n\n/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/.nuxt/router.js:\n    6  const _75d07f92 = () => import('../pages/notFound.vue' /* webpackChunkName: \"pages/notFound\" */).then(m => m.default || m)\n    7  const _65872675 = () => import('../pages/coupons.vue' /* webpackChunkName: \"pages/coupons\" */).then(m => m.default || m)\n    8: const _885c688c = () => import('../pages/index.vue' /* webpackChunkName: \"pages/index\" */).then(m => m.default || m)\n    9  \n   10  \n\n2 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": ".nuxt/router.js",
+			"settings":
+			{
+				"buffer_size": 1561,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/GoodsList.vue",
+			"settings":
+			{
+				"buffer_size": 11190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/index.vue",
+			"settings":
+			{
+				"buffer_size": 4516,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/Global.js",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/fetch.js",
+			"settings":
+			{
+				"buffer_size": 3381,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/utils.js",
+			"settings":
+			{
+				"buffer_size": 2593,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"ll",
+			"npm -v",
+			"pwd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/components",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/pages"
+	],
+	"file_history":
+	[
+		"/Users/caiting/Library/Application Support/Sublime Text 3/Installed Packages/VueFormatter.sublime-package/VUEFormatter.sublime-settings",
+		"/Users/caiting/Library/Application Support/Sublime Text 3/Installed Packages/VueFormatter.sublime-package/.vuebeautifyrc",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/build/main.js",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/server/index.js",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn/package.json",
+		"/Users/caiting/CTWork/zhongzeng/中增趣花/insert into MALLS (name,domain,logo_image_url) val",
+		"/Users/caiting/Downloads/COUPONS.sql",
+		"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend/deploy.sh",
+		"/Users/caiting/CTWork/adtime/eclipse-workspace/cashloan/pom.xml",
+		"/Users/caiting/CTWork/adtime/idea-workspace/int-shopguide-api/ivy.xml",
+		"/Users/caiting/Downloads/int-shopguide.sql",
+		"/Users/caiting/CTWork/adtime/国际/导购站/阿里云信息",
+		"/Users/caiting/CTWork/adtime/eclipse-workspace2/cashloan/cashloan-manage/src/main/resources/config/web/web-main.xml",
+		"/Users/caiting/.m2/repository/com/rongdu/framework/cashloan/1.0.1/cashloan-1.0.1.pom",
+		"/Users/caiting/.m2/repository/com/rongdu/framework/cashloan/1.0.1/m2e-lastUpdated.properties",
+		"/Users/caiting/.m2/repository/com/rongdu/framework/cashloan/1.0.1/_remote.repositories",
+		"/Volumes/CT-UD-01/中增趣花/数据库结构.sql",
+		"/Users/caiting/Downloads/SAMPLE_CODE (1).java",
+		"/Users/caiting/Downloads/SAMPLE_CODE.java",
+		"/Users/caiting/Downloads/AmazonProductAdvtApiSampleJavaQuery/src/com/amazon/advertising/api/sample/ItemLookupSample.java",
+		"/Users/caiting/Downloads/DivinityOriginal/Divinity - Original Sin.app/Contents/Data/Localization/language.lsx",
+		"/Users/caiting/Downloads/english_修正版v3.xml",
+		"/Applications/Divinity - Original Sin.app/installscript_osx.vdf",
+		"/Users/caiting/安装文件/激活破解方法/Idea"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn,-*/node_modules/*",
+			"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn,-node_modules/*",
+			"/Users/caiting/CTWork/adtime/js-workspace/shopping-frontend-mobile-cn"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"there",
+			"from",
+			"pages/index",
+			"strict",
+			"use strict",
+			"shopping-frontend-mobile-nuxt",
+			" ",
+			"\"",
+			"\":.*",
+			"街",
+			"街道",
+			"String",
+			"_",
+			"id",
+			"activity_adseat_id",
+			",",
+			"_",
+			"ad_seat_name",
+			" ",
+			",",
+			"\"",
+			".*property=\"(.*)\" />",
+			"    ",
+			"外键",
+			"<!DOCTYPE html>",
+			"fetchTitle",
+			"\"",
+			"youtube"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"'",
+			"$1",
+			"",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/TopSearch.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2540,
+								2545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 842.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										433,
+										444
+									],
+									[
+										472,
+										483
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".nuxt/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1400,
+								1400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/GoodsList.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4583,
+								4583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/index.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "utils/Global.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "utils/fetch.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							],
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "utils/utils.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1347,
+								1347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 976.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 204.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "shopping-frontend-mobile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
