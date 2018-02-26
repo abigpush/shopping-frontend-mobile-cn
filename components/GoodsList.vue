@@ -224,8 +224,8 @@ export default {
       .goods-title{
         color: #444;
         font-weight: 500;
-        font-size: .34rem;
-        max-height: .88rem;
+        font-size: .24rem;
+        max-height: .68rem;
         @include textOverFlow(2);
 
         .price{
@@ -246,15 +246,15 @@ export default {
       }
 
       .goods-content{
-        margin-top: .3rem;
+        margin-top: .1rem;
         .left-img{
           float: left;
-          width: 1.3rem;
+          width: 1.1rem;
           text-align: center;
-          margin:0 .14rem;
+          margin:0 .12rem;
           img{
-            height: 1.3rem;
-            max-width: 1.3rem;
+            height: 1.1rem;
+            max-width: 1.1rem;
           }
         }
         .right-content{
@@ -262,7 +262,7 @@ export default {
           width: 4.3916rem;
           margin-left: .03rem;
           .article{
-            height: 1.14rem;
+            height: .94rem;
             font-size: 14px;
             color: #aaa;
             @include textOverFlow(3);
