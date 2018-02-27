@@ -21,11 +21,12 @@ export default {
     width: 100%;
     height: 1rem;
     background-color: #ddd;
+    text-align:center;
     .logo{
-      float: left;
       margin-left: .2rem;
       img{
-        height: 1rem;
+        height: .8rem;
+        margin-top:.1rem;
       }
     }
     .toPc{
