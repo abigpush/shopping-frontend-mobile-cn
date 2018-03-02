@@ -1,5 +1,8 @@
 <template>
   <header class="header clearfix">
+    <div style="display:none;">
+      <img src="/logo300x300.jpg" alt="">
+    </div>
     <div class="logo">
       <img src="../assets/logo-cn.png" alt="">
     </div>

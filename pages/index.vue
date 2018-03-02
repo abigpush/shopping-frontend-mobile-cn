@@ -1,5 +1,4 @@
-<template>
-  <div style="display:none;"><img src="/logo300x300.jpg" alt=""></div>
+<template> 
   <div v-title="title">
     <my-header id="header"></my-header>
     <top-search
