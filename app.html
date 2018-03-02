@@ -1,45 +1,48 @@
 <!DOCTYPE html>
-<html {{ HTML_ATTRS }}>
-  <head>
-    <script>
-      (function (doc, win) {
-        var docEl = doc.documentElement
-        var resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize'
+<html{{ HTML_ATTRS }}>
+<head>
+<script>
+	(function(doc, win) {
+		var docEl = doc.documentElement
+		var resizeEvt = 'orientationchange' in window ? 'orientationchange'
+				: 'resize'
 
-        var recalc = function (e) {
-          var clientWidth = docEl.clientWidth
-          if (e && e.type === 'DOMContentLoaded') {
-            document.body.style.visibility = 'visible'
-          }
-          docEl.style.fontSize = 100 * (clientWidth / 640) + 'px'
-        }
-        if (!doc.addEventListener) return; recalc()
-        win.addEventListener(resizeEvt, recalc, false)
-        doc.addEventListener('DOMContentLoaded', recalc, false)
-      })(document, window)
-    </script>
-    <script>
-      window._epn = {
-        'campaign': 5338206547
-      }
-    </script>
-    <!-- <script src="https://epnt.ebay.com/static/epn-smart-tools.js"></script> -->
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async
-      src="https://www.googletagmanager.com/gtag/js?id=UA-109699642-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || []
-      function gtag() {
-        dataLayer.push(arguments)
-      }
-      gtag('js', new Date())
-      gtag('config', 'UA-109699642-1')
-    </script>
-    {{ HEAD }}
-  </head>
-  <body {{ BODY_ATTRS }} style="visibility: hidden;">
-    <image src="http://server.abigpush.com/api/behavior/cookie" border="1"
-      style="display:none" />
-    {{ APP }}
-  </body>
+		var recalc = function(e) {
+			var clientWidth = docEl.clientWidth
+			if (e && e.type === 'DOMContentLoaded') {
+				document.body.style.visibility = 'visible'
+			}
+			docEl.style.fontSize = 100 * (clientWidth / 640) + 'px'
+		}
+		if (!doc.addEventListener)
+			return;
+		recalc()
+		win.addEventListener(resizeEvt, recalc, false)
+		doc.addEventListener('DOMContentLoaded', recalc, false)
+	})(document, window)
+</script>
+<!--  <script>
+	window._epn = {
+		'campaign' : 5338206547
+	}
+</script>
+-->
+<!-- 百度统计 -->
+<script>
+	var _hmt = _hmt || [];
+	(function() {
+		var hm = document.createElement("script");
+		hm.src = "https://hm.baidu.com/hm.js?fb2cb1dd639acd63b5cac410110e89b4";
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(hm, s);
+	})();
+</script>
+<!-- 百度统计 -->
+{{ HEAD }}
+</head>
+<body {{ BODY_ATTRS }} style="visibility: hidden;">
+	<image src="http://server.abigpush.com/api/behavior/cookie" border="1"
+		style="display:none" />
+	{{ APP }}
+</body>
 </html>

@@ -5,11 +5,12 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'DealsWill Online Shopping Promotions - The Latest Coupons & Promo Codes - DealsWill.com',
+    title: '逛鱼网 | 实时同步全网折扣信息 | guangfish.com',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' },
-      { hid: 'description', name: 'description', content: 'DealsWill Online Shopping Promotions - The Latest Coupons & Promo Codes - DealsWill.com' }
+      { hid: 'description', name: 'description', content: '最全的实时折扣聚合，汇聚了什么值得买、买个便宜货、折800、惠惠网、北美省钱快报、360特惠等多个网站的折扣，以天猫京东亚马逊苏宁国美等大商家信息为主，每天千余条。力求成为消费者心目中的“品质消费第一站”，内容涉及3C家电、家居生活、时尚运动、海淘、旅游、汽车、信用卡等多个领域' },
+      { hid: 'keywords', name: 'keywords', content: '逛鱼网,逛鱼,guangfish,折扣 ,什么值得买 ,没得比,打折促销 ,网购 ,消费 ,优惠 ,discounts, promotions,coupons' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }

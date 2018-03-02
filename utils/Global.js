@@ -15,4 +15,4 @@ export const apiUrl = 'http://server.abigpush.com/api'
 export const autoFetchTime = 30000
 // 新增数目 显示的 临界值(大于该值)
 export const criticalNotifyNum = 0
-export const baseTitle = '一个大推网 | 实时同步全网折扣信息 | ABigPush.com'
+export const baseTitle = '逛鱼网 | 实时同步全网折扣信息 | guangfish.com'
