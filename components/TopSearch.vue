@@ -11,7 +11,7 @@
           {{key.name}}
         </li>
         <li class="hotKey active" v-show="$route.query.key">
-          Search Result
+                         搜索结果
         </li>
       </ul>
       <div class="btnGroup">
@@ -27,7 +27,7 @@
     <div class="backCover" v-show="coverFlag" @click="hideCover">
       <div class="search-wrapper" @click.stop>
         <div class="search-header clearfix">
-          <span class="title">搜索网站折扣</span>
+          <span class="title">搜索本站折扣</span>
           <div class="closeBtn" @click="hideCover">
             <img src="../assets/images/closeicon.png" alt="">
           </div>
