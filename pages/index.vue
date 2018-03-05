@@ -127,7 +127,7 @@
       },
       'goodsNotify'(to, from) {
         if (to && to > criticalNotifyNum) {
-          this.title = '(' + to + ' new entries) ' + baseTitle
+          this.title = '(' + to + ' 条更新) ' + baseTitle
         } else {
           this.title = baseTitle
         }
