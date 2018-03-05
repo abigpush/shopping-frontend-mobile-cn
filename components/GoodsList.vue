@@ -4,6 +4,9 @@
         v-infinite-scroll="loadMore"
         infinite-scroll-disabled="scrollDisabled"
         infinite-scroll-distance="10">
+      <li>
+        <div style="display:none;"><img src="https://mb.abigpush.com/thumbnail.png" alt=""></div>
+      </li>
       <li
           class="goods" 
           v-for="(goods, index) in goodsList" 
